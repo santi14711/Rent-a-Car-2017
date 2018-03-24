@@ -1,0 +1,14 @@
+
+alter table vehiculo add constraint foreign key (ids)
+references sucursal(ids)
+
+
+alter table vehiculo add constraint foreign key (idma)
+references marca (idma)
+
+
+create view dgv_e as
+select e.idem, e.rut,e.nombre nombre_empresa,
+p.idp,p.nombre,p.apellido 
+from empresa e left join persona p on p.idem = e.idem 
+where empresa_estado = 't'

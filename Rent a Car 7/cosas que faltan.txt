@@ -1,0 +1,119 @@
+falta hacer para el prog:
+
+- cargar cmb sucursal en alquiler de devolucion y retiro 
+- panel mantenimiento
+- empleados
+
+
+
+
+
+
+
+- terminar cargar textbox desde los dgv
+- validaciones de los txtbox 
+
+- terminar buscadores
+- terminar traduccion de idiomas
+
+
+
+
+ Private Sub Principal_Empleados_txb_ci_TextChanged(sender As Object, e As EventArgs) Handles Principal_Empleados_txb_ci.TextChanged
+        If tipodoc = 0 Then
+
+            If (Principal_Empleados_txb_ci.Text.Length = 6) Then
+
+                Principal_Empleados_txb_ciVerif.Text = Verif_CI("0" + Principal_Empleados_txb_ci.Text)
+            ElseIf Principal_Empleados_txb_ci.Text.Length = 7 Then
+                Principal_Empleados_txb_ciVerif.Text = Verif_CI(Principal_Empleados_txb_ci.Text)
+            Else
+                Principal_Empleados_txb_ciVerif.Text = ""
+            End If
+
+        End If
+
+    End Sub
+
+
+    Public Sub llenarGrillaEmpleado()
+        DataGrids("select p.idp, p.tipo_doc, p.num_doc, p.nombre, p.apellido,p.email,p.tel,p.direccion,p.fech_nac,e.ide,e.cargo,s.ids,s.nombre sucursal from empleado e inner join persona p on p.idp = e.idp inner join sucursal s on s.ids = e.ids", Principal_Empleados_dgv_empleado)
+
+    End Sub
+    Private Sub Principal_Empleados_btn_agregar_Click(sender As Object, e As EventArgs) Handles Principal_Empleados_btn_agregar.Click
+
+        ids = executescalar("ids", "sucursal", "nombre", "" + Principal_Empleados_cmb_sucursal.SelectedValue + "")
+        idp = executescalar("idp", "persona", "tipo_doc = 'C.I.' and num_doc", "" + Principal_Empleados_txb_ci.Text + "")
+
+        If Principal_Empleados_txb_ci.Text.Length < 6 Then
+            MessageBox.Show("Error : debe ingresar un número de documento válido", "Error de ingreso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Principal_clientes_txt_Verificador.Text = ""
+            Return
+        ElseIf Principal_empleados_txb_Nombre.Text = "" Then
+            MessageBox.Show("Error : debe ingresar un nombre", "Error de ingreso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Return
+        ElseIf Principal_empleados_txb_Apellido.Text = "" Then
+            MessageBox.Show("Error : debe ingresar un apellido", "Error de ingreso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Return
+        ElseIf Principal_empleados_txb_Email.Text = "" Then
+            MessageBox.Show("Error : debe ingresar un mail", "Error de ingreso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Return
+        ElseIf Principal_empleados_txb_Tel.Text = "" Then
+            MessageBox.Show("Error : debe ingresar un teléfono", "Error de ingreso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Return
+        ElseIf Principal_empleados_txb_Direc.Text = "" Then
+            MessageBox.Show("Error : debe ingresar una dirección", "Error de ingreso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Return
+        End If
+
+
+        Execute("select * from persona where num_doc = '" + Principal_Empleados_txb_ci.Text + Principal_Empleados_txb_ciVerif.Text + "' and trabaja = 't'")
+        If (dt.Rows.Count > 0) Then
+            MessageBox.Show("Este trabajador ya existe.")
+            Return
+        End If
+        Execute("select * from persona where num_doc = '" + Principal_Empleados_txb_ci.Text + Principal_Empleados_txb_ciVerif.Text + "")
+        If dt.Rows.Count > 0 Then
+            Try
+                sentenciasNonQuery("insert into empleado values (0," + idp + "" + ids + "" + Principal_Empleados_txb_Cargo.Text + ",)")
+                sentenciasNonQuery("update persona set trabaja = 't' where idp = " + idp + "")
+                llenarGrillaEmpleado()
+                MessageBox.Show("Exito : Exito al ingresar el nuevo empleado.", "Cliente", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            Catch ex As OdbcException
+                MessageBox.Show("Error :  No se pudo ingresar nuevo empleado.", "empleado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            End Try
+            Return
+        Else
+
+            Try
+                sentenciasNonQuery("insert into persona values (0,'" + Principal_Empleados_txb_ci.Text + Principal_Empleados_txb_ciVerif.Text + "','C.I.' , '" + Principal_empleados_txb_Nombre.Text + "' , '" + Principal_empleados_txb_Apellido.Text + "','" + Principal_empleados_txb_Email.Text + "'," + Principal_empleados_txb_Tel.Text + ", '" + Principal_empleados_txb_Direc.Text + "',null,null,'" + Principal_empleados_dtp_FechNac.Value.Date + "',null,null,null,'t',null) ")
+
+                MessageBox.Show("Se ha ingresado una persona a la base de datos.")
+            Catch ex As Exception
+                MessageBox.Show("Error :  No se pudo ingresar la persona.", "Persona", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            End Try
+            idp = executescalar("idp", "persona", "tipo_doc = 'C.I.' and num_doc", "" + Principal_Empleados_txb_ci.Text + Principal_Empleados_txb_ciVerif.Text + "")
+            Try
+                sentenciasNonQuery("insert into empleado values (0," + idp.ToString + "," + ids + ",'" + Principal_Empleados_txb_Cargo.Text + "')")
+                llenarGrillaEmpleado()
+                MessageBox.Show("Exito : Exito al ingresar el nuevo empleado.", "Cliente", MessageBoxButtons.OK, MessageBoxIcon.Information)
+
+            Catch ex As OdbcException
+                MessageBox.Show("Error :  No se pudo ingresar nuevo empleado.", "empleado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            End Try
+            Return
+        End If
+
+    End Sub
+    Private Sub Principal_empleado_btn_Modificar_Click(sender As Object, e As EventArgs) Handles Principal_empleado_btn_Modificar.Click
+        ids = executescalar("ids", "sucursal", "nombre", "" + Principal_Empleados_cmb_sucursal.SelectedValue + "")
+        idp = executescalar("idp", "persona", "tipo_doc = 'C.I.' and num_doc", "" + Principal_Empleados_txb_ci.Text + "")
+
+        sentenciasNonQuery("update persona set nombre = '" + Principal_empleados_txb_Nombre.Text + "', apellido= '" + Principal_empleados_txb_Apellido.Text + "', email = '" + Principal_empleados_txb_Email.Text + "',tel = " + Principal_empleados_txb_Tel.Text + ", direccion= '" + Principal_empleados_txb_Direc.Text + "',fech_nac='" + Principal_empleados_dtp_FechNac.Value.Date + "', num_doc= '" + Principal_Empleados_txb_ci.Text + Principal_Empleados_txb_ciVerif.Text + "' where tipo_doc = 'C.I.' and num_doc = " + Principal_Empleados_dgv_empleado.CurrentRow.Cells(2).Value + "")
+        sentenciasNonQuery("update empleado set idp =" + idp.ToString + ", ids = " + ids.ToString + ", cargo = '" + Principal_Empleados_txb_Cargo.Text + "' where ide = " + Principal_Empleados_dgv_empleado.CurrentRow.Cells(9).Value.ToString + "")
+        llenarGrillaEmpleado()
+    End Sub
+
+    Private Sub Principal_Empleados_btn_eliminar_Click(sender As Object, e As EventArgs) Handles Principal_Empleados_btn_eliminar.Click
+
+    End Sub

@@ -1,0 +1,1593 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyecto ITS 2017
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto_ITS_2017.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources._1213">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.asdasdasdasdasdas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.Awesome_CPU_Background">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.B1E3169AE">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.bandera_espannola">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.blue_2384333_960_720">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.c22618f8049de568061f8e71ac1fbb65_logotipo_de_l_neas_de_onda_by_vexels">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.configuration">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.download">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.e883e1bcfc34304d9fafb729acc644de_logotipo_azul_de_azulejos_pixilados_by_vexels">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.e883e1bcfc34304d9fafb729acc644de_logotipo_azul_de_azulejos_pixilados_by_vexels1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.es">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.f1fe4e2c004dc614689794d82157e75b">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.Fondo_lineas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.ICONCRAZE_COM_Tool_Icon_PNG_2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.LUZ_AZUL">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.Onda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.ppp2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.pppp">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.settings_icon_icons_com_69594">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.thumb_1920_316707">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.thumb2_lines_stripes_geometric_figures_lollipop_geometry">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.tools_128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.user">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.User_login_256">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.User_login_2561">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.Visual_Studio_Code_0_10_1_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.visualstudio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.visualstudio1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Resources.w__disney_texture_stock_by_redwolf518stock_d5s70kx">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Proyecto_ITS_2017.My.Resources.Español">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.btnRecuperar">
+<summary>
+  Busca una cadena traducida similar a Recuperar cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.buscarEmpresa">
+<summary>
+  Busca una cadena traducida similar a Buscar empresa.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.busSucursal">
+<summary>
+  Busca una cadena traducida similar a Buscar sucursal.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.checkAgregarCat">
+<summary>
+  Busca una cadena traducida similar a Agregar nueva categoria.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.checkAgregarMod">
+<summary>
+  Busca una cadena traducida similar a Agregar modelo.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.checkDir">
+<summary>
+  Busca una cadena traducida similar a Dirección.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.checkNom">
+<summary>
+  Busca una cadena traducida similar a Nombre.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.checkTel">
+<summary>
+  Busca una cadena traducida similar a Teléfono.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.cmbClientesBuscarApellido">
+<summary>
+  Busca una cadena traducida similar a Buscar por apellido.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.cmbClientesBuscardoc">
+<summary>
+  Busca una cadena traducida similar a Buscar por documento.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.cmbClientesBuscarMatri">
+<summary>
+  Busca una cadena traducida similar a Buscar por licencia.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_Aceptar">
+<summary>
+  Busca una cadena traducida similar a Aceptar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_CambioColor">
+<summary>
+  Busca una cadena traducida similar a Usar colores por defecto.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_ConfigDefecto">
+<summary>
+  Busca una cadena traducida similar a Configuración por defecto.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_DatosIngreso">
+<summary>
+  Busca una cadena traducida similar a Ingreso de datos.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_DatosUsuario">
+<summary>
+  Busca una cadena traducida similar a Datos de usuario.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_Fecha">
+<summary>
+  Busca una cadena traducida similar a Fecha:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_Hora">
+<summary>
+  Busca una cadena traducida similar a Hora:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_Informacion">
+<summary>
+  Busca una cadena traducida similar a Información.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_IP">
+<summary>
+  Busca una cadena traducida similar a Dirección IP.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_Language">
+<summary>
+  Busca una cadena traducida similar a Idioma.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_NombreDeUsuario">
+<summary>
+  Busca una cadena traducida similar a Nombre de usuario:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_nombreHost">
+<summary>
+  Busca una cadena traducida similar a Nombre de host:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_themes">
+<summary>
+  Busca una cadena traducida similar a Temas.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.conf_tipouser">
+<summary>
+  Busca una cadena traducida similar a Tipo de usuario.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Conf_titulo">
+<summary>
+  Busca una cadena traducida similar a Configuración.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Dato_ci">
+<summary>
+  Busca una cadena traducida similar a C.I..
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Dato_pasaporte">
+<summary>
+  Busca una cadena traducida similar a Pasaporte.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoAlquiler">
+<summary>
+  Busca una cadena traducida similar a Datos de alquiler.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoCategoria">
+<summary>
+  Busca una cadena traducida similar a Categoría.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoEmpresa">
+<summary>
+  Busca una cadena traducida similar a Datos de la empresa.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoFechaRealDev">
+<summary>
+  Busca una cadena traducida similar a Fecha real de devolución:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoFechaRealRetiro">
+<summary>
+  Busca una cadena traducida similar a Fecha real de retiro:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoFLimiteDev">
+<summary>
+  Busca una cadena traducida similar a Fecha de devolución límite.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoModelo">
+<summary>
+  Busca una cadena traducida similar a Datos de modelo.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoPrecioF">
+<summary>
+  Busca una cadena traducida similar a Precio final.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoReserva">
+<summary>
+  Busca una cadena traducida similar a Datos de alquiler.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.datoSucursal">
+<summary>
+  Busca una cadena traducida similar a Datos de sucursal.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_apeCli">
+<summary>
+  Busca una cadena traducida similar a Apellido de cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvpersona_cat">
+<summary>
+  Busca una cadena traducida similar a Categoría licencia.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvpersona_dep">
+<summary>
+  Busca una cadena traducida similar a Departamento de licencia.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvpersona_dir">
+<summary>
+  Busca una cadena traducida similar a Dirección del cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvpersona_est">
+<summary>
+  Busca una cadena traducida similar a Estado del cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_fNac">
+<summary>
+  Busca una cadena traducida similar a Fecha de nacimiento.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_mail">
+<summary>
+  Busca una cadena traducida similar a E-Mail.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_nDoc">
+<summary>
+  Busca una cadena traducida similar a Número de documento.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_nomCli">
+<summary>
+  Busca una cadena traducida similar a Nombre de cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvpersona_nome">
+<summary>
+  Busca una cadena traducida similar a Nombre empresa.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_tel">
+<summary>
+  Busca una cadena traducida similar a Telefono.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvPersona_tipDoc">
+<summary>
+  Busca una cadena traducida similar a Tipo de documento.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.dgvpersona_venc">
+<summary>
+  Busca una cadena traducida similar a Vencimiento de licencia.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Estado_deudor">
+<summary>
+  Busca una cadena traducida similar a Deudor.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Estado_enReserva">
+<summary>
+  Busca una cadena traducida similar a En reserva.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Estado_Libre">
+<summary>
+  Busca una cadena traducida similar a Disponible.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.grpclientes">
+<summary>
+  Busca una cadena traducida similar a Clientes.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.lblNoSeEncontro">
+<summary>
+  Busca una cadena traducida similar a No se encontraron resultados para la búsqueda.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Login">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Login_boxshow">
+<summary>
+  Busca una cadena traducida similar a Mostrar Contraseña.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Login_btnIn">
+<summary>
+  Busca una cadena traducida similar a Ingresar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Login_lblavisos">
+<summary>
+  Busca una cadena traducida similar a Bloq Mayus Activado.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Login_lblPass">
+<summary>
+  Busca una cadena traducida similar a Contraseña:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.Login_lblUser">
+<summary>
+  Busca una cadena traducida similar a Nombre de usuario:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.paaFormulario">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.pan_Clients">
+<summary>
+  Busca una cadena traducida similar a Clientes.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panalquileres">
+<summary>
+  Busca una cadena traducida similar a Alquileres.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_ape">
+<summary>
+  Busca una cadena traducida similar a Apellido.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_asignardeu">
+<summary>
+  Busca una cadena traducida similar a Asignar como deudor.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_btnagregar">
+<summary>
+  Busca una cadena traducida similar a Agregar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_btneliminar">
+<summary>
+  Busca una cadena traducida similar a Borrar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_btnlimpiar">
+<summary>
+  Busca una cadena traducida similar a Limpiar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_btnmodificar">
+<summary>
+  Busca una cadena traducida similar a Modificar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_cat">
+<summary>
+  Busca una cadena traducida similar a Categoría:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_datcli">
+<summary>
+  Busca una cadena traducida similar a Datos de cliente:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_deplic">
+<summary>
+  Busca una cadena traducida similar a Departamento de licencia:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_dir">
+<summary>
+  Busca una cadena traducida similar a Dirección:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_estado">
+<summary>
+  Busca una cadena traducida similar a Estado:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_fnac">
+<summary>
+  Busca una cadena traducida similar a Fecha de nacimiento:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_nom">
+<summary>
+  Busca una cadena traducida similar a Nombre:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_numdoc">
+<summary>
+  Busca una cadena traducida similar a Numero de documento:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_representa">
+<summary>
+  Busca una cadena traducida similar a Representa:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_tel">
+<summary>
+  Busca una cadena traducida similar a Telefono:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_tipodoc">
+<summary>
+  Busca una cadena traducida similar a Tipo de documento:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panCliente_venlic">
+<summary>
+  Busca una cadena traducida similar a Vencimiento de licencia:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panClienteBuscar">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panClienteBuscar_bus">
+<summary>
+  Busca una cadena traducida similar a Buscar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panClienteBuscar_buspor">
+<summary>
+  Busca una cadena traducida similar a Buscar por:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panClienteEmpresa">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panClienteEmpresa_btnemp">
+<summary>
+  Busca una cadena traducida similar a Empresa.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panClienteEmpresa_datemp">
+<summary>
+  Busca una cadena traducida similar a Datos de la empresa.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panempleado">
+<summary>
+  Busca una cadena traducida similar a Empleado.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panEmpleado_datos">
+<summary>
+  Busca una cadena traducida similar a Datos de empleado.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panEmpleado_seccion">
+<summary>
+  Busca una cadena traducida similar a Sección:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panExcli_datos">
+<summary>
+  Busca una cadena traducida similar a Datos de ex-cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panmantenimiento">
+<summary>
+  Busca una cadena traducida similar a Mantenimiento.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panMantenimiento_datos">
+<summary>
+  Busca una cadena traducida similar a Datos de mantenimineto.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panMantenimiento_desc">
+<summary>
+  Busca una cadena traducida similar a Descripción:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panMantenimiento_fFin">
+<summary>
+  Busca una cadena traducida similar a Fecha de fin:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panMantenimiento_fInicio">
+<summary>
+  Busca una cadena traducida similar a Fecha de inicio:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panopciones">
+<summary>
+  Busca una cadena traducida similar a Opciones.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva">
+<summary>
+  Busca una cadena traducida similar a Panel de reserva.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_btnvertodo">
+<summary>
+  Busca una cadena traducida similar a Limpiar.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_datos">
+<summary>
+  Busca una cadena traducida similar a Datos de reserva:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_fechadevfija">
+<summary>
+  Busca una cadena traducida similar a Fecha fijada de devolución:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_fechadevlim">
+<summary>
+  Busca una cadena traducida similar a Fecha devolución:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_numdoc">
+<summary>
+  Busca una cadena traducida similar a Numero de documento:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_preciof">
+<summary>
+  Busca una cadena traducida similar a Preicio final:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panReserva_tipodoc">
+<summary>
+  Busca una cadena traducida similar a Document type :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panSucursal_DatosBuscador">
+<summary>
+  Busca una cadena traducida similar a Datos de búsqueda.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panSucursal_nom">
+<summary>
+  Busca una cadena traducida similar a Nombre de sucursal:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVahiculo_disp">
+<summary>
+  Busca una cadena traducida similar a Disponibilidad:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panvehiculo">
+<summary>
+  Busca una cadena traducida similar a Vehiculo.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_bus">
+<summary>
+  Busca una cadena traducida similar a Busqueda.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_cat">
+<summary>
+  Busca una cadena traducida similar a Categoria:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_marca">
+<summary>
+  Busca una cadena traducida similar a Marca:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_mat">
+<summary>
+  Busca una cadena traducida similar a Matrícula:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_mod">
+<summary>
+  Busca una cadena traducida similar a Modelo:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_PrecioxDia">
+<summary>
+  Busca una cadena traducida similar a Precio por dia:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_suc">
+<summary>
+  Busca una cadena traducida similar a Sucursal:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculo_veh">
+<summary>
+  Busca una cadena traducida similar a Datos del Vehiculo.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculoDisponibilidad_Disponible">
+<summary>
+  Busca una cadena traducida similar a Disponible.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.panVehiculoDisponibilidad_Mantenimiento">
+<summary>
+  Busca una cadena traducida similar a Mantenimiento.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpAlquiler">
+<summary>
+  Busca una cadena traducida similar a Alquiler.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpAlquiler_historial">
+<summary>
+  Busca una cadena traducida similar a Registro de alquiler.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpAlquiler_reserva">
+<summary>
+  Busca una cadena traducida similar a Reserva.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpEmpresa">
+<summary>
+  Busca una cadena traducida similar a Empresa.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpOpciones_cerrarses">
+<summary>
+  Busca una cadena traducida similar a Cerrar sesion.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpOpciones_configuracion">
+<summary>
+  Busca una cadena traducida similar a Configuracion.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpOpciones_salir">
+<summary>
+  Busca una cadena traducida similar a Salida.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpPersona">
+<summary>
+  Busca una cadena traducida similar a Persona.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpPersona_cliente">
+<summary>
+  Busca una cadena traducida similar a Cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpPersona_empleado">
+<summary>
+  Busca una cadena traducida similar a Empleados.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpPersona_exCli">
+<summary>
+  Busca una cadena traducida similar a Ex-cliente.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpPersona_particular">
+<summary>
+  Busca una cadena traducida similar a Particular.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpSucursal">
+<summary>
+  Busca una cadena traducida similar a Sucursal.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpVehiculo">
+<summary>
+  Busca una cadena traducida similar a Vehiculo.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpVehiculo_flota">
+<summary>
+  Busca una cadena traducida similar a Flota de vehiculos.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Español.tlpVehiculo_mantenimiento">
+<summary>
+  Busca una cadena traducida similar a Mantenimiento.
+</summary>
+</member>
+<member name="T:Proyecto_ITS_2017.My.Resources.Ingles">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.aConfiguracion">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.btnRecuperar">
+<summary>
+  Busca una cadena traducida similar a Recover client.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.buscarEmpresa">
+<summary>
+  Busca una cadena traducida similar a Search enterprise.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.busSucursal">
+<summary>
+  Busca una cadena traducida similar a Search subsidiary.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.checkAgregarCat">
+<summary>
+  Busca una cadena traducida similar a Add new category.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.checkAgregarMod">
+<summary>
+  Busca una cadena traducida similar a Add model.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.checkDir">
+<summary>
+  Busca una cadena traducida similar a Address.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.checkNom">
+<summary>
+  Busca una cadena traducida similar a Name.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.checkTel">
+<summary>
+  Busca una cadena traducida similar a Telephone.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.cmbClientesBuscarApellido">
+<summary>
+  Busca una cadena traducida similar a Surname.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.cmbClientesBuscardoc">
+<summary>
+  Busca una cadena traducida similar a Document.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.cmbClientesBuscarMatri">
+<summary>
+  Busca una cadena traducida similar a License Type.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_Aceptar">
+<summary>
+  Busca una cadena traducida similar a Accept.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_CambioColor">
+<summary>
+  Busca una cadena traducida similar a Use custom color.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_ConfigDefecto">
+<summary>
+  Busca una cadena traducida similar a Default configuration.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_DatosIngreso">
+<summary>
+  Busca una cadena traducida similar a Entry data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_DatosUsuario">
+<summary>
+  Busca una cadena traducida similar a User data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_Fecha">
+<summary>
+  Busca una cadena traducida similar a Date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_Hora">
+<summary>
+  Busca una cadena traducida similar a Hour :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_Informacion">
+<summary>
+  Busca una cadena traducida similar a Information.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_IP">
+<summary>
+  Busca una cadena traducida similar a IP Address :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_Language">
+<summary>
+  Busca una cadena traducida similar a Language.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_NombreDeUsuario">
+<summary>
+  Busca una cadena traducida similar a Username :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_nombreHost">
+<summary>
+  Busca una cadena traducida similar a Host name :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_themes">
+<summary>
+  Busca una cadena traducida similar a Themes.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.conf_tipouser">
+<summary>
+  Busca una cadena traducida similar a Type :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Conf_titulo">
+<summary>
+  Busca una cadena traducida similar a Program Configuration.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Dato_ci">
+<summary>
+  Busca una cadena traducida similar a I.C..
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Dato_pasaporte">
+<summary>
+  Busca una cadena traducida similar a Passport.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoAlquiler">
+<summary>
+  Busca una cadena traducida similar a Rental data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoCategoria">
+<summary>
+  Busca una cadena traducida similar a Category data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoEmpresa">
+<summary>
+  Busca una cadena traducida similar a Enterprise data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoFechaRealDev">
+<summary>
+  Busca una cadena traducida similar a Actual return date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoFechaRealRetiro">
+<summary>
+  Busca una cadena traducida similar a Actual retirement date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoFLimiteDev">
+<summary>
+  Busca una cadena traducida similar a Deadline devolution :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoModelo">
+<summary>
+  Busca una cadena traducida similar a Model data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoPrecioF">
+<summary>
+  Busca una cadena traducida similar a Final price :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoReserva">
+<summary>
+  Busca una cadena traducida similar a Reservation data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.datoSucursal">
+<summary>
+  Busca una cadena traducida similar a Subsidiary data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_apeCli">
+<summary>
+  Busca una cadena traducida similar a Client Surname.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvpersona_cat">
+<summary>
+  Busca una cadena traducida similar a License Category.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvpersona_dep">
+<summary>
+  Busca una cadena traducida similar a License Department.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvpersona_dir">
+<summary>
+  Busca una cadena traducida similar a Client Address.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvpersona_est">
+<summary>
+  Busca una cadena traducida similar a Client State.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_fNac">
+<summary>
+  Busca una cadena traducida similar a Client Birth Date.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_mail">
+<summary>
+  Busca una cadena traducida similar a E-Mail Address.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_nDoc">
+<summary>
+  Busca una cadena traducida similar a Document Number.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_nomCli">
+<summary>
+  Busca una cadena traducida similar a Client Name.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvpersona_nome">
+<summary>
+  Busca una cadena traducida similar a Enterprise Name.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_tel">
+<summary>
+  Busca una cadena traducida similar a Telephone Number.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvPersona_tipDoc">
+<summary>
+  Busca una cadena traducida similar a Document Type.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.dgvpersona_venc">
+<summary>
+  Busca una cadena traducida similar a License Expiration.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Estado_deudor">
+<summary>
+  Busca una cadena traducida similar a Debtor .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Estado_enReserva">
+<summary>
+  Busca una cadena traducida similar a In reserve.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Estado_Libre">
+<summary>
+  Busca una cadena traducida similar a Available.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.grpclientes">
+<summary>
+  Busca una cadena traducida similar a Clients.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.lblNoSeEncontro">
+<summary>
+  Busca una cadena traducida similar a No results were found for your search.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Login">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Login_boxshow">
+<summary>
+  Busca una cadena traducida similar a Show password.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Login_btnIn">
+<summary>
+  Busca una cadena traducida similar a Enter.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Login_lblavisos">
+<summary>
+  Busca una cadena traducida similar a Caps Locks Enabled.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Login_lblPass">
+<summary>
+  Busca una cadena traducida similar a Password:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.Login_lblUser">
+<summary>
+  Busca una cadena traducida similar a Username:.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.paaFormulario">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.pan_Clients">
+<summary>
+  Busca una cadena traducida similar a Clients.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panalquileres">
+<summary>
+  Busca una cadena traducida similar a Rental.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_ape">
+<summary>
+  Busca una cadena traducida similar a Surname :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_asignardeu">
+<summary>
+  Busca una cadena traducida similar a Assign as debtor.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_btnagregar">
+<summary>
+  Busca una cadena traducida similar a Add.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_btneliminar">
+<summary>
+  Busca una cadena traducida similar a Delete.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_btnlimpiar">
+<summary>
+  Busca una cadena traducida similar a Clean.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_btnmodificar">
+<summary>
+  Busca una cadena traducida similar a Modify.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_cat">
+<summary>
+  Busca una cadena traducida similar a Category :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_datcli">
+<summary>
+  Busca una cadena traducida similar a Clients data :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_deplic">
+<summary>
+  Busca una cadena traducida similar a License city :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_dir">
+<summary>
+  Busca una cadena traducida similar a Address :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_estado">
+<summary>
+  Busca una cadena traducida similar a State :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_fnac">
+<summary>
+  Busca una cadena traducida similar a Birth date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_nom">
+<summary>
+  Busca una cadena traducida similar a Name :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_numdoc">
+<summary>
+  Busca una cadena traducida similar a Document number :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_representa">
+<summary>
+  Busca una cadena traducida similar a It Represents :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_tel">
+<summary>
+  Busca una cadena traducida similar a Telephone :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_tipodoc">
+<summary>
+  Busca una cadena traducida similar a Document type :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panCliente_venlic">
+<summary>
+  Busca una cadena traducida similar a License expiration :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panClienteBuscar">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panClienteBuscar_bus">
+<summary>
+  Busca una cadena traducida similar a Search.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panClienteBuscar_buspor">
+<summary>
+  Busca una cadena traducida similar a Search By :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panClienteEmpresa">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panClienteEmpresa_btnemp">
+<summary>
+  Busca una cadena traducida similar a Enterprise.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panClienteEmpresa_datemp">
+<summary>
+  Busca una cadena traducida similar a Enterprises data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panempleado">
+<summary>
+  Busca una cadena traducida similar a Employee.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panEmpleado_datos">
+<summary>
+  Busca una cadena traducida similar a Employee data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panEmpleado_seccion">
+<summary>
+  Busca una cadena traducida similar a Section :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panExcli_datos">
+<summary>
+  Busca una cadena traducida similar a Ex-Client data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panmantenimiento">
+<summary>
+  Busca una cadena traducida similar a Maintenance.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panMantenimiento_datos">
+<summary>
+  Busca una cadena traducida similar a Maintenance data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panMantenimiento_desc">
+<summary>
+  Busca una cadena traducida similar a Description :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panMantenimiento_fFin">
+<summary>
+  Busca una cadena traducida similar a End date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panMantenimiento_fInicio">
+<summary>
+  Busca una cadena traducida similar a Start date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panopciones">
+<summary>
+  Busca una cadena traducida similar a Options.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva">
+<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_btnvertodo">
+<summary>
+  Busca una cadena traducida similar a Refresh.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_datos">
+<summary>
+  Busca una cadena traducida similar a Rent data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_fechadevfija">
+<summary>
+  Busca una cadena traducida similar a Fixed return date :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_fechadevlim">
+<summary>
+  Busca una cadena traducida similar a Date return limit :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_numdoc">
+<summary>
+  Busca una cadena traducida similar a Document number :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_preciof">
+<summary>
+  Busca una cadena traducida similar a Final price :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panReserva_tipodoc">
+<summary>
+  Busca una cadena traducida similar a Document type :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panSucursal_DatosBuscador">
+<summary>
+  Busca una cadena traducida similar a Data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panSucursal_nom">
+<summary>
+  Busca una cadena traducida similar a Subsidiary name :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVahiculo_disp">
+<summary>
+  Busca una cadena traducida similar a Disponibility :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panvehiculo">
+<summary>
+  Busca una cadena traducida similar a Vehicle.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_bus">
+<summary>
+  Busca una cadena traducida similar a Search.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_cat">
+<summary>
+  Busca una cadena traducida similar a Category :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_marca">
+<summary>
+  Busca una cadena traducida similar a Car brand :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_mat">
+<summary>
+  Busca una cadena traducida similar a Number plate :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_mod">
+<summary>
+  Busca una cadena traducida similar a Model :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_PrecioxDia">
+<summary>
+  Busca una cadena traducida similar a Price per day :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_suc">
+<summary>
+  Busca una cadena traducida similar a Subsidiary :.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculo_veh">
+<summary>
+  Busca una cadena traducida similar a Vehicle data.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculoDisponibilidad_Disponible">
+<summary>
+  Busca una cadena traducida similar a Available.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.panVehiculoDisponibilidad_Mantenimiento">
+<summary>
+  Busca una cadena traducida similar a Maintenance.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpAlquiler">
+<summary>
+  Busca una cadena traducida similar a Rental.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpAlquiler_historial">
+<summary>
+  Busca una cadena traducida similar a Rental Record.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpAlquiler_reserva">
+<summary>
+  Busca una cadena traducida similar a Reservation.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpEmpresa">
+<summary>
+  Busca una cadena traducida similar a Enterprise.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpOpciones_cerrarses">
+<summary>
+  Busca una cadena traducida similar a Close sesion.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpOpciones_configuracion">
+<summary>
+  Busca una cadena traducida similar a Configuration.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpOpciones_salir">
+<summary>
+  Busca una cadena traducida similar a Exit.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpPersona">
+<summary>
+  Busca una cadena traducida similar a Person.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpPersona_cliente">
+<summary>
+  Busca una cadena traducida similar a Client.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpPersona_empleado">
+<summary>
+  Busca una cadena traducida similar a Employees.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpPersona_exCli">
+<summary>
+  Busca una cadena traducida similar a Ex-client.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpPersona_particular">
+<summary>
+  Busca una cadena traducida similar a Particular.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpSucursal">
+<summary>
+  Busca una cadena traducida similar a Subsidiary.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpVehiculo">
+<summary>
+  Busca una cadena traducida similar a Vehicle.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpVehiculo_flota">
+<summary>
+  Busca una cadena traducida similar a Fleet of vehicles.
+</summary>
+</member>
+<member name="P:Proyecto_ITS_2017.My.Resources.Ingles.tlpVehiculo_mantenimiento">
+<summary>
+  Busca una cadena traducida similar a Maintenance.
+</summary>
+</member>
+</members>
+</doc>

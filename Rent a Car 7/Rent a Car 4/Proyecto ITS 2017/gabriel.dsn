@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=IBM INFORMIX ODBC DRIVER (64-bit)
+UID=
+DLOC=en_US.819
+CLOC=en_US.CP1252
+PRO=olsoctcp
+SERV=svc_ids_1150_1
+SRVR=ol_ids_1150_1
+HOST=*usuario-PC
+DATABASE=npgpr
